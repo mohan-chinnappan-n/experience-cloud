@@ -1,6 +1,6 @@
 # Experience Cloud User Licenses
 
-## Topcis
+## Topics
 
 - [What is free and what needs community licenses ](#free)
 - [5 Tiers of Licenses](#5tiers)
