@@ -126,7 +126,7 @@
 ### Login overages (view Setup > Identity)
 - Login overages are calculated over a 12-month period from the **start date of the contract**. 
 - Entitlements roll over from month to month. 
-    - If you purchase **25,000 monthly logins**, you are entitled to a total of 300,000 annual logins.
+    - If you purchase **25,000 monthly logins**, you are entitled to a total of **300,000** annual logins.
 - To  check your aggregated login consumption for the current month
     - Setup > Company Information
 
