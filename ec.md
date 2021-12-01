@@ -115,7 +115,7 @@
   - the number of login licenses that are provisioned in your org is:
   - **1–20**
   - Example:
-    -  if you purchase **1,000 monthly logins**, then **20,000** login licenses are provisioned in your org.
+    -  if you purchase **25,000 monthly logins**, then **500,000** login licenses are provisioned in your org.
 
 - why **20x**?
     - We want to make sure that you **have enough licenses** to assign to all the login-based users you potentially create.
@@ -126,7 +126,7 @@
 ### Login overages (view Setup > Identity)
 - Login overages are calculated over a 12-month period from the **start date of the contract**. 
 - Entitlements roll over from month to month. 
-    - If you purchase **1,000 monthly logins**, you are entitled to a total of 12,000 annual logins.
+    - If you purchase **25,000 monthly logins**, you are entitled to a total of 300,000 annual logins.
 - To  check your aggregated login consumption for the current month
     - Setup > Company Information
 
