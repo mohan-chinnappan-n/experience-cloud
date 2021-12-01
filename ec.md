@@ -31,10 +31,10 @@
 [![video](img/cc-video-1.png)](https://salesforce.vidyard.com/watch/5kixavmXPC372dCZ37Z2dv)
 
 ## 5 Tiers of Licenses
-- External Apps - B2C use cases
+- **External Apps** - B2C use cases
     - minimal interaction with Salesforce records
 
-- Customer Community - B2C use cases
+- **Customer Community** - B2C use cases
     - ![cc](img/cc.png)
     - customer portal
     - peer-to-peer forums
@@ -48,13 +48,13 @@
     - report missing credit card
     - update home address
     
-- Customer Community Plus - B2B and B2C use cases - not involving sales scenarios
+- **Customer Community Plus** - B2B and B2C use cases - not involving sales scenarios
     - ![cc plus](img/cc-plus.png)
     - all the **sharing benefits** of **full Salesforce  license**
     - access to **reports and dashboards**
     
 
-- Partner Community - highest license tier
+- **Partner Community** - highest license tier
     - great for use cases where your company sells through a **distribution channel**
     - partner relationship management (PRM) for resellers
     - broker portals
@@ -69,23 +69,24 @@
 - ![pc](img/pc.png)
 
 
-- Channel Accounts
+- **Channel Accounts**
     - same benefits as Partner Community license but packaged differently
-    - 2 Account types
-        - Person Accounts (PC)
-            - Represents an individual
-            - Combines: Fields in **Account and Contact** objects into a single record
-            - 1 Person Account = 1 Site User
-            - Works with:
-                - Customer Community 
-                - Customer Community Plus 
-        - Business Accounts
-            - Represents companies
-            - 1 Business Account --> Many Site Users
-                - For setting up partners
-                    - Convert the Account to a Partner Account - **Enable As Partner**
-                    - Create a Contact in the Account
-                    - **Enable Partner User** for this Contact to convert that Contact to a site user
+
+## 2 Account types
+- **Person Accounts** (PC)
+    - Represents an individual
+    - Combines: Fields in **Account and Contact** objects into a single record
+    - 1 Person Account = 1 Site User
+    - Works with:
+        - Customer Community 
+        - Customer Community Plus 
+- **Business Accounts**
+    - Represents companies
+    - 1 Business Account --> Many Site Users
+        - For setting up partners
+            - Convert the Account to a Partner Account - **Enable As Partner**
+            - Create a Contact in the Account
+            - **Enable Partner User** for this Contact to convert that Contact to a site user
 
 
 
@@ -106,7 +107,7 @@
   - Example:
     -  if you purchase **1,000 monthly logins**, then **20,000** login licenses are provisioned in your org.
 
-- why 20x?
+- why **20x**?
     - We want to make sure that you **have enough licenses** to assign to all the login-based users you potentially create.
 
 
