@@ -1,7 +1,11 @@
 # Experience Cloud User Licenses
 
+## Topcis
+
 - [What is free and what needs community licenses ](#free)
 - [5 Tiers of Licenses](#5tiers)
+- [2 Account types ](#at)
+- [Login-based licenses](#lbl)
 <a name='free'></a>
 ## What is free and what needs community licenses ?
 - can create up to **100** Experience Cloud sites without buying communities licenses. 
@@ -76,6 +80,7 @@
 - **Channel Accounts**
     - same benefits as Partner Community license but packaged differently
 
+<a name='at'></a>
 ## 2 Account types
 - **Person Accounts** (PC)
     - Represents an individual
@@ -98,6 +103,7 @@
  ## Setting up the users
  - Every site user in your org **has** to be associated with an **Account**  - associated Account
 
+<a name='lbl'></a>
 ## Login-based licenses
 
 -  To use a login-based license, you first purchase a **specific number of logins** to be used **every month**. 
