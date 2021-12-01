@@ -1,5 +1,8 @@
 # Experience Cloud User Licenses
 
+- [What is free and what needs community licenses ](#free)
+- [5 Tiers of Licenses](#5tiers)
+<a name='free'></a>
 ## What is free and what needs community licenses ?
 - can create up to **100** Experience Cloud sites without buying communities licenses. 
 - can have up to **100** Experience Cloud sites in your Salesforce org. Active, inactive, and preview sites, including Lightning Platform sites, count against this limit.
@@ -30,6 +33,7 @@
 ## Experience Cloud Sites and Users in Your Salesforce Org
 [![video](img/cc-video-1.png)](https://salesforce.vidyard.com/watch/5kixavmXPC372dCZ37Z2dv)
 
+<a name='5tiers'></a>
 ## 5 Tiers of Licenses
 - **External Apps** - B2C use cases
     - minimal interaction with Salesforce records
