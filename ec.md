@@ -134,8 +134,6 @@
 
 <a name='limits'></a>
 ## Hitting limits
- hitting limits:
-
 - If you allocate all your licenses of any given type, the system will stop you from creating more users on that license type. That’s true for all Salesforce licenses.
 
 - For users on **login-based licenses**
